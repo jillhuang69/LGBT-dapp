@@ -21,3 +21,4 @@ if (import.meta.hot) {
     );
   });
 }
+
